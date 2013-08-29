@@ -1,0 +1,35 @@
+{
+  "name": "hashsum",
+  "version": "0.0.0",
+  "description": "Compute the hashsum of various things",
+  "main": "index.js",
+  "bin": {
+    "hashsum": "bin/hashsum.js"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brettstimmerman/hashsum.git"
+  },
+  "homepage": "https://github.com/brettstimmerman/hashsum",
+  "keywords": [
+    "checksum",
+    "hashsum",
+    "shasum",
+    "hash",
+    "sha",
+    "sha1",
+    "md5"
+  ],
+  "dependencies": {
+    "optimist": "~0.6.0"
+  },
+  "devDependencies": {
+    "jshint": "*",
+    "mocha": "*"
+  },
+  "author": "Brett Stimmerman <brettstimmerman@gmail.com>",
+  "license": "MIT"
+}
