@@ -1,4 +1,4 @@
-# hashsum
+# hashsum [![Build Status](https://secure.travis-ci.org/brettstimmerman/hashsum.png?branch=master)](http://travis-ci.org/brettstimmerman/hashsum)
 
 Calculate the hashsum of various things.
 
